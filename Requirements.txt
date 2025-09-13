@@ -1,1 +1,12 @@
-
+streamlit
+scikit-learn
+matplotlib
+seaborn
+datasets
+pandas
+numpy
+transformers
+torch
+accelerate
+google-generativeai
+joblib
